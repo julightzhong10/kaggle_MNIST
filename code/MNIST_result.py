@@ -11,9 +11,9 @@ def main():
 
 	'''Management Data'''
 	data_path='../input/'
-	model_folder='../model/exp5/'
+	model_folder='../model/exp6/'
 	model_Name='MNIST.ckpt'
-	ckpt_offset=196800
+	ckpt_offset=65600
 
 	'''Data prepare, rotate or shuffle'''
 	TestSet=data_preparer(data_path)
