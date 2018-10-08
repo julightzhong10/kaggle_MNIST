@@ -1,0 +1,2 @@
+model_checkpoint_path: "MNIST.ckpt-131200"
+all_model_checkpoint_paths: "MNIST.ckpt-131200"
