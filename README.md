@@ -19,6 +19,12 @@ Data Science Project on kaggle (https://www.kaggle.com/c/digit-recognizer/data)
 	* Pandas
 	* Numpy
 
+## Kaggle
+
+The current result is 99.557% accuracy which ranked at 427st(Top 16%)
+
+For most recent info, welcome to [`My Kaggle Profile`](https://www.kaggle.com/julightzhong10).
+
 
 ## Acknowledgement
 
